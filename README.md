@@ -6,7 +6,7 @@ Some experiments with flexbox based on the famous Wes Bos' tutorial https://flex
 Flexbox <br>
 HTML5 <br>
 Gulp <br>
-LESS <br>
+Less <br>
 jQuery
 
 

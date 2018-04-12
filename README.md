@@ -1,4 +1,4 @@
-# flexbox-stuff
+# flexbox-tutorial
 
 Some experiments with flexbox based on the famous Wes Bos' tutorial https://flexbox.io/.. pretty awesome!
 
